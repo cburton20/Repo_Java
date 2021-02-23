@@ -25,10 +25,10 @@ public class PrimitiveDataType {
         System.out.println("Does the sun rise start in the west? " + sunRiseOnTheWest);
 
         char firstInitial = 'C';
-        System.out.println("My first initial is :" + firstInitial);
-
         char lastInitial = 'B';
-        System.out.println("My last initial is :" + lastInitial);
+        System.out.println("My initials are :" + firstInitial + lastInitial);
+
+
 
 
 
